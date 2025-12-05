@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Jayith+Wijethunge;Software+Engineering+Student;UI%2FUX+Enthusiast+%26+Future+Project+Manager;Java+%7C+JavaScript+%7C+Microservices;Welcome+to+my+Dark+Tech+Space!&font=Fira%20Code&center=true&width=1000&height=60&color=00F0FF&size=32">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Jayith+Wijethunge;Software+Engineering+Student;UI%2FUX+Enthusiast+%26+Future+Project+Manager;Java+%7C+JavaScript+%7C+Microservices;Welcome!&font=Fira%20Code&center=true&width=1000&height=60&color=00F0FF&size=32">
 </p>
 
 ---
