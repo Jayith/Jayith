@@ -34,11 +34,11 @@ I love building **clean, modern, and user-friendly systems** — and I’m const
 
 # 📊 GitHub Stats 
 <p align="center">
+  <!-- General GitHub Stats -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jayith&show_icons=true&count_private=true&theme=radical" />
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jayith&show_icons=true&count_private=true&theme=radical&hide_border=false&bg_color=0D1117" />
-
-
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayith&layout=compact&langs_count=8&theme=radical&hide_border=false&bg_color=0D1117" />
+  <!-- Top Languages -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayith&layout=compact&langs_count=8&theme=radical" />
 </p>
 
 ---
