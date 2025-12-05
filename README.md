@@ -1,7 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/8bCqQfB.gif
-" width="100%" alt="Welcome Banner"/>
+  <img src="https://i.imgur.com/8bCqQfB.gif" width="100%" alt="Welcome Banner"/>
 </p>
 
 <!-- Typing SVG -->
