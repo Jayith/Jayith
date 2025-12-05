@@ -32,24 +32,17 @@ I love building **clean, modern, and user-friendly systems** — and I’m const
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayith&theme=react-dark&hide_border=false&area=true" />
-</p>
-
----
-
 # 🌐 Connect With Me
 <p align="center">
-  <a href="http://linkedin.com/in/jayith-wijethunge" target="_blank">
+  <a href="http://linkedin.com/in/jayith-wijethunge" target="_blank" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
-  &nbsp;&nbsp;&nbsp; 
-  <a href="mailto:jayith.wijethunge@icloud.com">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:jayith.wijethunge@icloud.com" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
 </p>
+
 
 ---
 
