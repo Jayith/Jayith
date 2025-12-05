@@ -33,8 +33,7 @@ I love building **clean, modern, and user-friendly systems** — and I’m const
 
 ---
 
-# 📊 GitHub Stats (Dark Mode)
-
+# 📊 GitHub Stats 
 <p align="center">
   <!-- General GitHub Stats -->
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jayith&show_icons=true&count_private=true&theme=radical&hide_border=false&bg_color=0D1117" />
@@ -45,7 +44,7 @@ I love building **clean, modern, and user-friendly systems** — and I’m const
 
 ---
 
-# ⚡ Activity Graph (Dark Neon)
+# ⚡ Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayith&theme=react-dark&hide_border=true&area=true" />
 </p>
@@ -63,7 +62,6 @@ I love building **clean, modern, and user-friendly systems** — and I’m const
 </p>
 
 ---
-
 <!-- Footer Banner -->
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
