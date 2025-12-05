@@ -32,20 +32,10 @@ I love building **clean, modern, and user-friendly systems** — and I’m const
 
 ---
 
-# 📊 GitHub Stats 
+# 📈 Contribution Graph
+
 <p align="center">
-  <!-- General GitHub Stats -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jayith&show_icons=true&count_private=true&theme=radical" />
-
-  <!-- Top Languages -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayith&layout=compact&langs_count=8&theme=radical" />
-</p>
-
----
-
-# ⚡ Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayith&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayith&theme=react-dark&hide_border=false&area=true" />
 </p>
 
 ---
