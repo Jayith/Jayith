@@ -1,6 +1,7 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/8MupZHY.gif" width="100%" alt="Welcome Banner"/>
+  <img src="https://i.imgur.com/8bCqQfB.gif
+" width="100%" alt="Welcome Banner"/>
 </p>
 
 <!-- Typing SVG -->
@@ -41,8 +42,11 @@ I love building **clean, modern, and user-friendly systems** — and I’m const
 # 📊 GitHub Stats (Dark Mode)
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jayith&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayith&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  <!-- General GitHub Stats -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jayith&show_icons=true&count_private=true&theme=radical&hide_border=false&bg_color=0D1117" />
+
+  <!-- Top Languages -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayith&layout=compact&langs_count=8&theme=radical&hide_border=false&bg_color=0D1117" />
 </p>
 
 ---
