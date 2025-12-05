@@ -12,7 +12,7 @@ I'm **Jayith Wijethunge**, a passionate **Software Engineering student** explori
 
 I love building **clean, modern, and user-friendly systems** — and I’m constantly learning new tech.
 
-🎯 *Future Goals:*  
+*Future Goals:*  
 - Become a **Software Project Manager**  
 - Become a **UI/UX Designer + System Architect**  
 - Build real-world **Java Microservice applications**
@@ -61,11 +61,6 @@ I love building **clean, modern, and user-friendly systems** — and I’m const
     <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
 </p>
-
----
-
-# 🖤 Fun Fact  
-I love building systems that help people — and I turn ideas into reality through clean code & design.
 
 ---
 
