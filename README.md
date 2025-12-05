@@ -64,5 +64,6 @@ I love building **clean, modern, and user-friendly systems** — and I’m const
 ---
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="100%" alt="Footer Banner"/>
 </p>
+
