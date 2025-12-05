@@ -4,7 +4,7 @@
 
 ---
 
-# 🧑‍💻 About Me  
+🧑‍💻 About Me  
 
 I'm **Jayith Wijethunge**, a passionate **Software Engineering student** exploring the world of  
 **backend engineering, microservices, UI/UX, and full-stack development**.  
@@ -18,31 +18,17 @@ I love building **clean, modern, and user-friendly systems** — and I’m const
 
 ---
 
-# 🚀 Tech Stack  
+🚀 Tech Stack  
 
-### **Languages**
+**Languages**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,python,html,css" />
 </p>
 
-### **Frameworks & Tools**
+**Frameworks & Tools**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring,react,nodejs,bootstrap,tailwind,figma,git,github,mysql" />
 </p>
-
----
-
-# 🌐 Connect With Me
-<p align="center">
-  <a href="http://linkedin.com/in/jayith-wijethunge" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:jayith.wijethunge@icloud.com" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-  </a>
-</p>
-
 
 ---
 
